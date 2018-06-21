@@ -1,0 +1,97 @@
+/*
+
+Hello, my name is Karthik Nayak. I am a computer science student at the University of Kentucky.
+
+I love coding, technology and all things machines can do!
+My current learning interests are machine learning, computer vision, data analysis, algorithmic trading, and of course dynamic & interactive UI, etc.. 
+
+How about some live coding?
+Let's start by animating everything...
+
+*/
+
+* {
+  -webkit-transition: all 1s;
+}
+
+html {
+  background: linear-gradient(to left, #444747, #111111);
+}
+
+pre {
+  color: white;
+}
+
+a {
+  background-color: white;
+  color:            #111;
+  text-decoration:  none;
+  font-family:      'Cutive Mono';
+  text-align:       center;
+  letter-spacing:   5px;
+  padding:          2px 8px 2px 10px;
+}
+
+/*
+    Lets create a nice area for us to work in.
+*/
+
+pre:not(:empty) {
+  overflow:     auto;
+  background:   rgb(17, 17, 17);
+  border:       1px solid #5dbab7;
+  max-height:   94.5%;
+  width:        49%;
+  font-size:    16px;
+  font-family:  'Share Tech Mono', monospace;
+  box-shadow:   15px 15px 15px rgba(0,0,0,0.3);
+  white-space:  pre-wrap;
+  outline:      0;
+}
+
+#style-text {
+  -webkit-transform:    translateX(95%);
+  position:     absolute;
+  border-left:  5px solid #ef67a5;
+  border-right: 1px solid #35bdb8;
+  padding:      10px 10px 20px;
+}
+
+body {
+  -webkit-perspective: 1000px;
+}
+
+/*
+    Okay, now lets add some nice colors
+    - inspired by foobar with google
+*/
+
+.comment       { color: #85816d; font-style: italic; }
+.selector      { color: #f48020; }
+.selector .key { color: #35bdb8; }
+.key           { color: #35bdb8; }
+.value         { color: #A785F7; }
+.value.px      { color: #ec1b52; }
+
+::-webkit-scrollbar-thumb {
+  background-color: #5125a3;
+}
+
+/*
+    So, let's talk about me. That's why you're here.
+*/
+
+#style-text {
+  -webkit-transform-origin: right;
+  -webkit-transform:      translateX(97.5%) rotateY(-10deg);
+  transform:      translateX(216.5%) rotateY(-10deg);
+  width:          30%;
+}
+
+#work-text {
+  -webkit-transform:        rotateY(10deg);
+  -webkit-transform-origin: left;
+  width:            70.5%;
+  max-height:       100%;
+  visibility:       visible;
+}
