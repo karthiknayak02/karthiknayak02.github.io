@@ -1,4 +1,5 @@
-# Scrollbar style 
+##### Rebuild Project to Update the footer Links
+##### Scrollbar style 
 ```
 /* width */
 ::-webkit-scrollbar {
