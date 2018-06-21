@@ -1,0 +1,32 @@
+Karthik Nayak
+=========
+
+Bachelor of Science in Computer Science									University of Kentucky
+**GPA:** 3.6 / 4.0, Junior													Graduation: Dec 18
+**Relevant Courses:** Algorithm Design & Analysis, Machine Learning, Interactive Machine Learning, Graphics and Multimedia (Java), Embedded Systems, Program Design & Abstraction, Discrete Math
+
+Experience
+-------
+**IBM**																			_Dallas, TX_
+Software Developer Intern												_Jun. 2018 – Aug. 2018_
+
+**Tesla**															_Gigafactory 1, Reno, NV_
+Automation Controls Engineering Intern									_May. 2017 – Aug. 2017_
+
+**Visumatic**															_Lexington, KY_
+Computer and Electrical Engineering Intern									_May 2016 – Aug 2016_ 
+
+Skills
+--------
+ **Python | Java | C++ | OOP | Unix | Arduino Programming | HMI design User Interface | Assembly
+ Language | Ladder Logic, PLC programming | AutoCAD Electrical | Image Processing |
+ Microcontrollers | Networking | Mechatronics**
+
+* **Proficient Languages:** English, Konkani, Hindi, and Marathi
+
+Achivements
+-----------
+◦ Project Name1: 2nd Place overall winner in Cathacks Hackathon and main winner of AWS educate challenge (Team of 2) 
+◦ Project Name2: 2nd Place overall winner in Cathacks Hackathon (Team of 3) 
+◦ Eta Kappa Nu – ECE Honor Society for students in upper 25% of the junior class of electrical and computer engineering majors
+◦ International Student Ambassador at the University of Kentucky – scholarship based on leadership, communication, and extra-curricular activities.
