@@ -16,15 +16,15 @@
 	font-size: 15px;
 	font: inherit;
 	cursor: pointer;
-	width: 100%; 
+	width: 100%;
 	outline: none;
-} 
+}
 
 .collapsible:hover {
 	-webkit-transform: translate(5px, -10px);
 	transition: all .25s linear;
-  	box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.3);
-} 
+	box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.3);
+}
 
 .content {
 	padding: 0 18px;
@@ -37,7 +37,7 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 	line-height: 1.5em;
-	background: linear-gradient(whitesmoke, white); 
+	background: linear-gradient(whitesmoke, white);
 }
 
 /* Create four equal columns that floats next to each other */

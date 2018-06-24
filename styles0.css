@@ -1,4 +1,4 @@
-/* 
+/*
 
 Hello, my name is Karthik Nayak. I am an computer science student at the University of Kentucky.
 
@@ -25,11 +25,11 @@ pre {
 a {
   background-color: white;
   color:            #111;
-  text-decoration:  none; 
-  font-family:      'Cutive Mono'; 
+  text-decoration:  none;
+  font-family:      'Cutive Mono';
   text-align:       center;
   letter-spacing:   5px;
-  padding:          2px 8px 2px 10px; 
+  padding:          2px 8px 2px 10px;
 }
 
 /*
@@ -52,7 +52,7 @@ pre:not(:empty) {
 #style-text {
   -webkit-transform:    translateX(95%);
   position:     absolute;
-  border-left:  5px solid #ef67a5; 
+  border-left:  5px solid #ef67a5;
   border-right: 1px solid #35bdb8;
   padding:      10px 10px 20px;
 }
@@ -62,7 +62,7 @@ body {
 }
 
 /*
-    Okay, now lets add some nice colors 
+    Okay, now lets add some nice colors
     - inspired by foobar with google
 */
 
@@ -73,15 +73,19 @@ body {
 .value         { color: #A785F7; }
 .value.px      { color: #ec1b52; }
 
+::-webkit-scrollbar-thumb {
+  background-color: #5125a3;
+}
+
 /*
-    So, let's talk about me. That's why you're here. 
+    So, let's talk about me. That's why you're here.
 */
 
 #style-text {
   -webkit-transform-origin: right;
   -webkit-transform:      translateX(97.5%) rotateY(-10deg);
-  transform:      translateX(216.5%) rotateY(-10deg); 
-  width:          30%; 
+  transform:      translateX(216.5%) rotateY(-10deg);
+  width:          30%;
 }
 
 #work-text {

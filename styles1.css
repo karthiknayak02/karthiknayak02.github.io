@@ -1,18 +1,18 @@
 
 /*
-     We're almost done.
+    We're almost done.
  */
 
- #skip-animation, #pause-resume {
+#skip-animation, #pause-resume {
   display: none;
-} 
+}
 
 /*
-   I hope you enjoyed this.
+  I hope you enjoyed this.
 
-   Thanks to Jake Albaugh, and Samuel Reed by who I was inspired by to build a page like this. 
-   Some of the autotyping and syntax highlighting code is based off thier work.
+  Thanks to Jake Albaugh, and Samuel Reed by who I was inspired by to build a page like this.
+  Some of the autotyping and syntax highlighting code is based off thier work.
 
-   By the way, you can edit this box. 
-   Try adding new CSS to play with playing with text sizes, shadows, animations, or just break the page. 
+  By the way, you can edit this box.
+  Try adding new CSS to play with playing with text sizes, shadows, animations, or just break the page.
 */

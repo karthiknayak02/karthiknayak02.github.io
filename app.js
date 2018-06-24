@@ -53,7 +53,7 @@ async function surprisinglyShortAttentionSpan() {
   style.textContent += txt;
   let styleHTML = "";
   for(let i = 0; i < txt.length; i++) {
-     styleHTML = handleChar(styleHTML, txt[i]);
+    styleHTML = handleChar(styleHTML, txt[i]);
   }
   styleEl.innerHTML = styleHTML;
   createWorkBox();
