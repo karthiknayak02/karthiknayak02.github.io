@@ -1,4 +1,4 @@
-##### Rebuild Project to Update the footer Links
+##### UPDATE LOGO
 ##### Scrollbar style 
 ```
 /* width */
